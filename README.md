@@ -45,20 +45,27 @@ This plugin imports content from Sitepress `template.csv` files into WordPress p
 ## Screenshots
 
 1. Plugin interface:
+## Screenshots
 
-    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img1.png
+1. Plugin interface (Image 1):  
+   ![Plugin Interface Screenshot 1](https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img1.png)
 
-    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img2.png
+2. Plugin interface (Image 2):  
+   ![Plugin Interface Screenshot 2](https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img2.png)
 
-    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img3.png
+3. Plugin interface (Image 3):  
+   ![Plugin Interface Screenshot 3](https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img3.png)
 
-    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img4.png
+4. Plugin interface (Image 4):  
+   ![Plugin Interface Screenshot 4](https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img4.png)
 
-    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img5.png
+5. Plugin interface (Image 5):  
+   ![Plugin Interface Screenshot 5](https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img5.png)
 
-    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img6.png
+6. Plugin interface (Image 6):  
+   ![Plugin Interface Screenshot 6](https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img6.png)
+
         
-    
 ---
 
 ## Installation
