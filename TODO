@@ -1,0 +1,4 @@
+*   relationships and connect with page-content.csv 
+*   Stores content in XML format with content areas
+*   Has fields: ID, SiteID, ParentPageID, PageName, PageURL, etc.
+*   A basic hierarchical page structure that preserves the content relationships from the source data and import directly into Template content area

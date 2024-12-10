@@ -1,0 +1,366 @@
+SiteID,Title,Content,DateCreated,CreatedBy,DateModified,ModifiedBy,EditableAreaCount,isDefault
+2030,head,"<head>
+<meta charset=""utf-8"">
+<title>{{PAGE_WINDOW_TITLE}} - Vertex Software Corporation - Austin, TX</title>
+{{KEYWORDS}}
+{{DESCRIPTION}}
+{{META_NOINDEX}}
+<meta name=""author"" content=""Vertex Software Corporation"">
+<meta name=""viewport"" content=""width=device-width, minimum-scale=1.0, initial-scale=1.0"">
+<link rel=""stylesheet"" href=""{{PATH_TO_RESOURCE:css\site.min.20190628.css}}"">
+<link rel=""stylesheet"" href=""{{PATH_TO_RESOURCE:css\responsive.min.css}}"" media=""screen and (max-width: 1200px)"">
+<link href='//fonts.googleapis.com/css?family=Montserrat:400,700%7CMaven+Pro' rel='stylesheet' type='text/css'>
+<link rel=""shortcut icon"" href=""{{PATH_TO_RESOURCE:ico\favicon.ico}}"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""{{PATH_TO_RESOURCE:png\apple-touch-icon-76x76.png}}"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""{{PATH_TO_RESOURCE:png\apple-touch-icon-120x120.png}}"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""{{PATH_TO_RESOURCE:png\apple-touch-icon-152x152.png}}"">
+<link rel=""apple-touch-icon"" sizes=""167x167"" href=""{{PATH_TO_RESOURCE:png\apple-touch-icon-167x167.png}}"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""{{PATH_TO_RESOURCE:png\apple-touch-icon-180x180.png}}"">
+<script src=""{{PATH_TO_RESOURCE:js\modernizr.min.js}}""></script>
+<!--[if gte IE 9]><!-->
+<script src=""//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js""></script>
+<script>window.jQuery || document.write('<script src=""{{PATH_TO_RESOURCE:js\jquery-2.1.1.min.js}}""><\/script>')</script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+    <script type=""text/javascript"" src=""//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js""></script>
+    <script>window.jQuery || document.write('<script src=""{{PATH_TO_RESOURCE:js\jquery-1.11.1.min.js}}""><\/script>')</script>
+<![endif]-->
+<script src=""{{PATH_TO_RESOURCE:js\plugins.js}}""></script>
+<script src=""{{PATH_TO_RESOURCE:js\script.js}}""></script>
+<!--[if lt IE 9]>
+    <script src=""//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js""></script>
+    <script src=""{{PATH_TO_RESOURCE:js\respond.min.js}}""></script>
+<![endif]-->
+<!--    Switches ""no-js"" class on <html> if JavaScript is enabled.  -->
+<script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49321405-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta name=""msvalidate.01"" content=""54D3F9CDCB42EB9689C2F1B2184BF441"" />",13:28.7,1,39:00.8,1,0,1
+2030,header,"<header>
+  <div class=""wrapper cf"">
+    <a href=""/"" class=""vertex-logo""><span>Vertex Software Corporation</span></a>
+    <ul class=""social-links"">
+      <li>{{SITE_KEY:sm-facebook}}</li>
+      <li>{{SITE_KEY:sm-twitter}}</li>
+    </ul>   
+    <nav class=""cf"">
+      <h2 class=""visuallyhidden"">Main Site Navigation</h2>
+        {{INCLUDE_TEMPLATE:menu}}
+    </nav>
+  </div>
+</header>
+[[sp3:webpart=Ajax]]",13:33.8,1,02:33.8,1,0,1
+2030,footer,"<footer>
+  <div class=""wrapper cf"">
+    <nav>
+      <h3 class=""visuallyhidden"">Footer Navigation</h3>
+      {{INCLUDE_TEMPLATE:menu}}
+    </nav>
+    <small class=""copyright"">&copy; {{CURRENT_YEAR}} Vertex Software Corporation. All rights reserved. Powered by Vertex <a href=""http://sitepress.net"">Site Press&reg;</a></small>
+  </div>
+  <ul class=""social-links"">
+    <li>{{SITE_KEY:sm-facebook}}</li>
+    <li>{{SITE_KEY:sm-twitter}}</li>
+    <li>{{SITE_KEY:sm-upcity}}</li>
+    <li>{{SITE_KEY:sm-upcity-apps}}</li>
+    <li>{{SITE_KEY:sm-upcity-ux}}</li>
+    <li><a href=""https://wpvip.com/partner/vertex/""><img src=""/templates/Vertex/Assets/silver-white-bg-copy.png"" alt=""Wordpress VIP Silver Agency Partner logo"" width=""150"" /></a></li>
+  </ul>
+</footer>",13:38.3,1,56:38.1,1,0,1
+2030,_Home,"<!doctype html>
+<!--[if IE 7]>    <html class=""no-js ie9 lt-ie9 lt-ie8"" lang=""en""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie9 lt-ie9"" lang=""en""> <![endif]-->
+<!--[if IE 9]>    <html class=""no-js ie9"" lang=""en""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class=""no-js"" lang=""en""> <!--<![endif]-->
+<head>
+{{INCLUDE_TEMPLATE:head}}
+</head>
+
+<body class=""page-home"">
+
+<section class=""mobile-nav cf"" >
+  <h2 class=""visuallyhidden"">Mobile Navigation</h2>
+  {{INCLUDE_TEMPLATE:menu}}
+  <ul class=""social-links"">
+    <li>{{SITE_KEY:sm-facebook}}</li>
+    <li>{{SITE_KEY:sm-twitter}}</li>
+  </ul>
+</section>
+  
+<div class=""mobile-body-wrapper cf"">
+  
+  <!--googleoff: all-->	
+  <div class=""mobile-nav-bar"">
+    <div onClick=""expandSideNav();"" class=""mobile-nav-button"">
+      <i class=""icon-menu""><span>menu</span></i>
+    </div>
+  </div>
+  <!--googleon: all-->
+  
+  {{INCLUDE_TEMPLATE:header}}
+  
+  <h1 class=""visuallyhidden"">Vertex Software Corporation</h1>
+  
+  <section class=""slider"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:slideshow:Index=1}}
+    </div>
+  </section>
+  
+  <section class=""news"">
+    <div class=""wrapper cf"">
+      <hr />
+      {{CONTENTAREA:news:Index=2}}
+    </div>
+  </section>
+  
+  <span class=""anchor"" id=""services""></span>
+  <section class=""services"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:services:Index=3}}
+    </div>
+  </section>
+  
+  <span class=""anchor"" id=""solutions""></span>
+  <section class=""solutions"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:solutions:Index=4}}
+    </div>
+  </section>
+  
+  <span class=""anchor"" id=""our-work""></span>
+  <section class=""our-work"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:our-work:Index=5}}
+    </div>
+  </section>  
+  
+  <span class=""anchor"" id=""yelp-reviews""></span>
+  <section class=""yelp-reviews"">
+    <div class=""wrapper cf"">
+      [[sp3:webpart=Vertex_Scrapper,url=https%3a%2f%2fwww.yelp.com%2fbiz%2fvertex-software-austin]]
+    </div>
+  </section>
+  
+  <span class=""anchor"" id=""about-us""></span>
+  <section class=""about-us"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:about-us:Index=6}}
+    </div>
+  </section>
+  
+  <span class=""anchor"" id=""contact""></span>
+  <section class=""contact-us"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:contact-us:Index=7}}
+    </div>
+  </section>  
+  
+  {{INCLUDE_TEMPLATE:footer}}
+    
+</div><!-- /mobile-body-wrapper -->
+
+</body>
+</html>",26:12.9,1,05:56.2,1,7,1
+2030,_Default_subpage,"<!doctype html>
+<!--[if IE 7]>    <html class=""no-js ie9 lt-ie9 lt-ie8"" lang=""en""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie9 lt-ie9"" lang=""en""> <![endif]-->
+<!--[if IE 9]>    <html class=""no-js ie9"" lang=""en""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class=""no-js"" lang=""en""> <!--<![endif]-->
+<head>
+{{INCLUDE_TEMPLATE:head}}
+</head>
+
+<body class=""page-{{PAGE_ID}}"">
+  
+<section class=""mobile-nav cf"" >
+  <h2 class=""visuallyhidden"">Mobile Navigation</h2>
+  {{INCLUDE_TEMPLATE:menu}}
+  <ul class=""social-links"">
+    <li>{{SITE_KEY:sm-facebook}}</li>
+    <li>{{SITE_KEY:sm-twitter}}</li>
+  </ul>
+</section>
+  
+<div class=""mobile-body-wrapper cf"">
+  
+  <!--googleoff: all-->	
+  <div class=""mobile-nav-bar"">
+    <div onClick=""expandSideNav();"" class=""mobile-nav-button"">
+      <i class=""icon-menu""><span>menu</span></i>
+    </div>
+  </div>
+  <!--googleon: all-->
+  
+  {{INCLUDE_TEMPLATE:header}}
+  
+  <section class=""content"">
+    <div class=""wrapper cf"">
+      <!--googleoff: snippet-->
+      <nav class=""cf"">{{PATHNAV}}</nav>
+      <!--googleon: all-->
+      {{CONTENTAREA:content:Index=1}}
+    </div>
+  </section>
+  {{INCLUDE_TEMPLATE:footer}}
+    
+</div><!-- /mobile-body-wrapper -->
+
+</body>
+</html>",26:20.0,1,05:49.9,1,1,0
+2030,menu,"<ul>
+  <li><a href=""/#services"">Services</a></li>
+  <li><a href=""/#solutions"">Solutions</a></li>
+  <li><a href=""/#our-work"">Our Work</a></li>
+  <li><a href=""/#about-us"">About Us</a></li>
+  <li><a href=""/#contact"">Contact</a></li>
+</ul>",53:44.1,1,38:43.8,1,0,1
+2030,_Portfolio,"<!doctype html>
+<!--[if IE 7]>    <html class=""no-js ie9 lt-ie9 lt-ie8"" lang=""en""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie9 lt-ie9"" lang=""en""> <![endif]-->
+<!--[if IE 9]>    <html class=""no-js ie9"" lang=""en""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class=""no-js"" lang=""en""> <!--<![endif]-->
+<head>
+{{INCLUDE_TEMPLATE:head}}
+</head>
+
+<body class=""page-{{PAGE_ID}}"">
+  
+<section class=""mobile-nav cf"" >
+  <h2 class=""visuallyhidden"">Mobile Navigation</h2>
+  {{INCLUDE_TEMPLATE:menu}}
+  <ul class=""social-links"">
+    <li>{{SITE_KEY:sm-facebook}}</li>
+    <li>{{SITE_KEY:sm-twitter}}</li>
+  </ul>
+</section>
+  
+<div class=""mobile-body-wrapper cf"">
+  
+  <!--googleoff: all-->	
+  <div class=""mobile-nav-bar"">
+    <div onClick=""expandSideNav();"" class=""mobile-nav-button"">
+      <i class=""icon-menu""><span>menu</span></i>
+    </div>
+  </div>
+  <!--googleon: all-->
+  
+  {{INCLUDE_TEMPLATE:header}}
+  
+  <section class=""content"">
+    <div class=""wrapper cf"">
+      <!--googleoff: snippet-->
+      <nav class=""cf"">{{PATHNAV}}</nav>
+      <!--googleon: all-->
+      {{CONTENTAREA:content-above-grid:Index=3}}
+      {{CONTENTAREA:portfolio-item-grid:Index=1}}
+      {{CONTENTAREA:content-below-grid:Index=4}}
+      {{CONTENTAREA:portfolio-item-detail-popups:Index=2}}
+    </div>
+  </section>
+  {{INCLUDE_TEMPLATE:footer}}
+    
+</div><!-- /mobile-body-wrapper -->
+
+</body>
+</html>",18:15.1,1,06:11.1,1,4,1
+2030,_News_listing,"<!doctype html>
+<!--[if IE 7]>    <html class=""no-js ie9 lt-ie9 lt-ie8"" lang=""en""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie9 lt-ie9"" lang=""en""> <![endif]-->
+<!--[if IE 9]>    <html class=""no-js ie9"" lang=""en""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class=""no-js"" lang=""en""> <!--<![endif]-->
+<head>
+{{INCLUDE_TEMPLATE:head}}
+</head>
+
+<body class=""page-{{PAGE_ID}}"">
+  
+<section class=""mobile-nav cf"" >
+  <h2 class=""visuallyhidden"">Mobile Navigation</h2>
+  {{INCLUDE_TEMPLATE:menu}}
+  <ul class=""social-links"">
+    <li>{{SITE_KEY:sm-facebook}}</li>
+    <li>{{SITE_KEY:sm-twitter}}</li>
+  </ul>
+</section>
+  
+<div class=""mobile-body-wrapper cf"">
+  
+  <!--googleoff: all-->	
+  <div class=""mobile-nav-bar"">
+    <div onClick=""expandSideNav();"" class=""mobile-nav-button"">
+      <i class=""icon-menu""><span>menu</span></i>
+    </div>
+  </div>
+  <!--googleon: all-->
+  
+  {{INCLUDE_TEMPLATE:header}}
+  
+  <section class=""content"">
+    <div class=""wrapper cf"">
+      <!--googleoff: snippet-->
+      <nav class=""cf"">{{PATHNAV}}</nav>
+      <!--googleon: all-->
+      <h1>{{TITLE}}</h1>
+      {{CONTENTAREA:content:Index=1}}
+      {{NAV:CHILDREN}}
+    </div>
+  </section>
+  {{INCLUDE_TEMPLATE:footer}}
+    
+</div><!-- /mobile-body-wrapper -->
+
+</body>
+</html>",14:11.9,1,06:02.1,1,1,1
+2030,_Blog_post,"<!doctype html>
+<!--[if IE 7]>    <html class=""no-js ie9 lt-ie9 lt-ie8"" lang=""en""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie9 lt-ie9"" lang=""en""> <![endif]-->
+<!--[if IE 9]>    <html class=""no-js ie9"" lang=""en""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class=""no-js"" lang=""en""> <!--<![endif]-->
+<head>
+{{INCLUDE_TEMPLATE:head}}
+<script type=""text/javascript"" src=""//platform-api.sharethis.com/js/sharethis.js#property=58ed32d517d2e20012e39b27&product=inline-share-buttons""></script>
+</head>
+
+<body class=""page-{{PAGE_ID}} blog-post"">
+  
+<section class=""mobile-nav cf"" >
+  <h2 class=""visuallyhidden"">Mobile Navigation</h2>
+  {{INCLUDE_TEMPLATE:menu}}
+  <ul class=""social-links"">
+    <li>{{SITE_KEY:sm-facebook}}</li>
+    <li>{{SITE_KEY:sm-twitter}}</li>
+  </ul>
+</section>
+  
+<div class=""mobile-body-wrapper cf"">
+  
+  <!--googleoff: all-->	
+  <div class=""mobile-nav-bar"">
+    <div onClick=""expandSideNav();"" class=""mobile-nav-button"">
+      <i class=""icon-menu""><span>menu</span></i>
+    </div>
+  </div>
+  <!--googleon: all-->
+  
+  {{INCLUDE_TEMPLATE:header}}
+  
+  <section class=""content"">
+    <div class=""wrapper cf"">
+      {{CONTENTAREA:content:Index=1}}
+    </div>
+  </section>
+  {{INCLUDE_TEMPLATE:footer}}
+    
+</div><!-- /mobile-body-wrapper -->
+
+</body>
+</html>",03:02.1,1,05:32.7,1,1,1
