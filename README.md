@@ -44,10 +44,21 @@ This plugin imports content from Sitepress `template.csv` files into WordPress p
 
 ## Screenshots
 
-1. Plugin interface:  
-   ![Screenshot Placeholder](screenshot-1.png)  
-   *(Replace `screenshot-1.png` with the actual screenshot file in your repository.)*
+1. Plugin interface:
 
+    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img1.png
+
+    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img2.png
+
+    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img3.png
+
+    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img4.png
+
+    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img5.png
+
+    https://raw.githubusercontent.com/lawalyusuf/vertex-sitepress-importer-plugin/main/screenshot/vertex-img6.png
+        
+    
 ---
 
 ## Installation
